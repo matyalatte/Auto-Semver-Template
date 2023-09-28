@@ -46,7 +46,7 @@ You can also use labels to update semver.
 
 When the merged PR is labeled with `patch`, `minor`, or `major`, the workflow creates a tag and a release draft.  
 
-## Add version info to API documents
+## How to add version info to API documents
 
 You can write the API documents with `@next_version@` like this.
 
