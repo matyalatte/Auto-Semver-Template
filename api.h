@@ -4,7 +4,7 @@
  * @param a an integer.
  * @param b an integer.
  * @returns a + b
- * @since @next_version@
+ * @since 0.1.0
  */
 int add(int a, int b);
 
@@ -14,6 +14,6 @@ int add(int a, int b);
  * @param a an integer.
  * @param b an integer.
  * @returns a * b
- * @since @next_version@
+ * @since 0.1.0
  */
 int mult(int a, int b);
