@@ -24,6 +24,6 @@ int mult(int a, int b);
  * @param a an integer.
  * @param b an integer.
  * @returns max(a, b)
- * @since @next_version@
+ * @since 1.0.0
  */
 int max(int a, int b);
